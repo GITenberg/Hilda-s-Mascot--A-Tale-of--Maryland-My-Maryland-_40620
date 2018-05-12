@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39140'
     url: http://www.gutenberg.org/2009/agents/39140
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40620#Hilda-s-Mascot--A-Tale-of--Maryland-My-Maryland-
 gutenberg_issued: '2012-08-29'
 gutenberg_type: Text
 identifiers:
